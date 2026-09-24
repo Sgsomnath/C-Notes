@@ -1,4 +1,4 @@
-author: Mr.Somnath Ghorai
+author: Mr.Somnath Ghorai <br>
 vs code to gitHub
     # ধাপ ১: পরিবর্তন হওয়া সব ফাইল ট্র্যাক (Stage) করা
 git add .
