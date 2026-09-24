@@ -42,3 +42,4 @@ Literals are explicit, fixed values embedded directly into source code:
 2. **Floating-Point Literals:** `3.14`, `2.5f`
 3. **Character Literals:** `'A'`, `'\n'` (Enclosed in single quotes)
 4. **String Literals:** `"Hello World"` (Enclosed in double quotes)
+end
